@@ -1,0 +1,23 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "keywords": ["json-server,heroku,node,REST API"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanyi-a/heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanyi-a/heroku/issues"
+  },
+  "homepage": "https://github.com/kanyi-a/heroku#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
